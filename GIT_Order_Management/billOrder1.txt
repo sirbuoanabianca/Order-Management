@@ -1,0 +1,5 @@
+COMANDA CU NUMARUL 1 a fost plasata la data de 2021/05/14 09:56:23
+CLIENTUL/CLIENTA Suciu Dan DIN
+str.Izvorului,Campia Turzii,Cluj
+A ACHIZITIONAT 3 x Boxe Horizon Acustico(489.99 RON)
+TOTAL PLATA=1469.97 RON
